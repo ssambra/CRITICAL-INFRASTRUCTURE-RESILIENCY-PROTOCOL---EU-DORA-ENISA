@@ -1,0 +1,132 @@
+MASTER PLAYBOOK 4 — CRITICAL INFRASTRUCTURE RESILIENCY PROTOCOL
+[DORA Article 28 • Third‑Party Risk • Chaos Engineering • BCP Architecture]
+I. Mission Objective — Becoming a Resilience Architect
+This playbook proves mastery over the Digital Operational Resilience Act (DORA) — specifically Article 28, which governs Critical ICT Third‑Party Providers for EU financial and critical‑sector entities.
+
+A strategic question becomes the backbone of this entire architecture:
+
+“If the AI provider fails, how does the Sentinel stay online?”
+
+This is the mindset shift from cybersecurity practitioner to operational continuity engineer.
+
+II. Article 28 Audit Protocol — The Sentinel’s Third‑Party Interrogation Framework
+Article 28 demands that organizations prove their ICT providers are resilient.
+Your protocol becomes a technical interrogation of provider survivability.
+
+1. Operational Continuity Stressors
+Multi‑region failover capability
+
+Latency tolerance thresholds
+
+Backup compute availability
+
+Provider’s own dependency chain
+
+2. Data Portability & Sovereignty
+Instant exportability
+
+Format‑agnostic backups
+
+Zero‑trust data escrow
+
+Verifiable deletion guarantees
+
+3. Exit Strategy Validation
+Simulated provider shutdown
+
+Migration rehearsal
+
+Contractual off‑boarding SLAs
+
+Shadow‑provider readiness
+
+4. AI‑Specific Integrity Controls
+Model rollback capability
+
+Drift detection
+
+Training‑data lineage
+
+Adversarial robustness testing
+
+This transforms Article 28 from a compliance requirement into a resilience battlefield assessment.
+
+III. The Resilience Test Lab — Chaos Engineering on Your MacBook
+You convert your MacBook Air into a DORA‑aligned Resilience Test Lab.
+
+Chaos Engineering Scenario:
+You intentionally disable a non‑critical security service (safe, controlled) to test whether your Python‑based Automated Recovery Logic responds correctly.
+
+You document:
+Trigger Event: What failed
+
+Detection Logic: How your script recognized the failure
+
+Automated Response: Restart, isolate, or reconfigure
+
+Recovery Time: Seconds to full restoration
+
+Post‑Recovery Validation: Ensuring the system is stable
+
+This mirrors the resilience testing expected of EU financial institutions — but executed at the endpoint level.
+
+Portfolio Narrative Line:
+“I conducted controlled chaos experiments to validate automated recovery logic aligned with DORA Article 28.”
+
+This positions you as someone who tests resilience, not trusts it.
+
+IV. The “Architect” Persona — Engineering Systems That Cannot Be Broken
+This playbook shifts your identity from operator to architect.
+
+Operator Mindset:
+“I fix things when they break.”
+
+Architect Mindset:
+“I design systems that cannot be broken.”
+
+Architect Principles:
+Redundancy by Design: No single point of failure
+
+Provider‑Agnostic Workflows: Avoid vendor lock‑in
+
+Self‑Healing Automation: Scripts that detect and correct anomalies
+
+Predictive Continuity: Anticipate failure modes before they occur
+
+Zero‑Trust Dependencies: Every provider must prove reliability
+
+This is the persona regulators expect from modern resilience leaders.
+
+V. Business Continuity Plan (BCP) — Remote‑First Cybersecurity Office
+You produce a high‑level BCP tailored for a remote‑first SOC / Threat Intelligence team.
+
+BCP Core Components:
+Communication Continuity:  
+Backup channels (Signal, Teams failover, encrypted email).
+
+Identity Continuity:  
+Offline MFA codes, emergency access accounts.
+
+Data Continuity:  
+Encrypted local snapshots + cloud redundancy.
+
+Operational Continuity:  
+Predefined fallback workflows for detection, triage, and reporting.
+
+Provider Failure Playbook:  
+Steps to migrate away from a failing AI or cloud provider.
+
+This becomes a portfolio‑ready artifact demonstrating your ability to design continuity at scale.
+
+VI. The “Operator” KPI Dashboard — Your GitHub Signature Metrics
+To make your Master Playbooks stand out, you include a KPI section in your GitHub README.
+
+MY Sentinel KPIs:
+Mean Time to Detect (MTTD): < 5 Minutes  
+Achieved through automated telemetry and behavioral analytics.
+
+Compliance Accuracy: 100%  
+Via DORA/NIS2 automated templates and audit logic.
+
+Attribution Fidelity: High  
+Through Corelight/Zeek Diamond Model mapping and swarm‑based adversary profiling.
